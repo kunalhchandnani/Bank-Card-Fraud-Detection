@@ -60,3 +60,5 @@ The Bank Card Fraud Detection project successfully demonstrates the application 
 - **Enhance Model**: Explore deep learning models for potentially better performance.
 - **Production Deployment**: Scale the system for real-time transaction monitoring in a production environment.
 - **Continuous Learning**: Implement mechanisms for the model to learn from new fraud patterns dynamically.
+
+[streamlit-app-2024-07-01-12-07-79.webm](https://github.com/kunalhchandnani/Bank-Card-Fraud-Detection/assets/88874426/f629ece5-0cc3-4a35-8ce2-c367732c2d8c)
