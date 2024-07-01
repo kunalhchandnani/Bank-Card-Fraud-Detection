@@ -49,3 +49,14 @@ The dataset used in this project is from the [Kaggle Credit Card Fraud Detection
 - **Recall**: Ability to detect actual fraudulent transactions.
 - **F1-Score**: Harmonic mean of precision and recall.
 - **ROC-AUC**: Measures the model's performance across all thresholds.
+
+# Conclusion
+
+The Bank Card Fraud Detection project successfully demonstrates the application of machine learning to detect fraudulent transactions. With a robust preprocessing pipeline, effective feature engineering, and a high-performing Gradient Boosting model, the system provides accurate and reliable fraud detection. Future work includes integrating additional data sources, enhancing the model with deep learning techniques, and deploying the system in a production environment for real-time fraud monitoring.
+
+# Future Work
+
+- **Incorporate Additional Data**: Integrate more diverse data sources to improve model robustness.
+- **Enhance Model**: Explore deep learning models for potentially better performance.
+- **Production Deployment**: Scale the system for real-time transaction monitoring in a production environment.
+- **Continuous Learning**: Implement mechanisms for the model to learn from new fraud patterns dynamically.
